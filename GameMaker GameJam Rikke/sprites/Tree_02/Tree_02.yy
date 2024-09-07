@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"689e36e1-2de7-455b-9b4f-97f473a5b7da","name":"689e36e1-2de7-455b-9b4f-97f473a5b7da","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"45f47131-60c5-4ae7-b080-3ae5d2a68a66","name":"45f47131-60c5-4ae7-b080-3ae5d2a68a66","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":852,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"21e0322e-1dcf-4ef8-b9f6-54adac0b7d46","blendMode":0,"displayName":"default","isLocked":false,"name":"21e0322e-1dcf-4ef8-b9f6-54adac0b7d46","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"b7506ae9-ea77-45d1-89ac-5240c4e87404","blendMode":0,"displayName":"default","isLocked":false,"name":"b7506ae9-ea77-45d1-89ac-5240c4e87404","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Tree_02",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"689e36e1-2de7-455b-9b4f-97f473a5b7da","path":"sprites/Tree_02/Tree_02.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"45a3009a-7738-43b6-b175-67674bf1c8c1","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"45f47131-60c5-4ae7-b080-3ae5d2a68a66","path":"sprites/Tree_02/Tree_02.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"2d8184f1-b5c3-4366-9c45-e8c850a490ee","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
